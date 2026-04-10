@@ -92,7 +92,7 @@ void liberar(Pilha *p) {
 
 int main() {
     system("chcp 65001 > nul");
-    printf("===== Desafio 2: Inversão de String com Pilha =====\n\n");
+    printf("Desafio 2: Inversão de String com Pilha\n\n");
 
     char entrada[100];
 
