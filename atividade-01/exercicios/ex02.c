@@ -2,9 +2,11 @@
    Cria vetor com 5 inteiros, lê do teclado e imprime na ordem inversa */
 
 #include <stdio.h>
+#include <stdlib.h>
 
 int main() {
-    printf("===== Exercício 2: Vetor na Ordem Inversa =====\n\n");
+    system("chcp 65001 > nul");
+    printf("Exercício 2: Vetor na Ordem Inversa\n\n");
 
     
     int numeros[5];
@@ -30,5 +32,6 @@ int main() {
     }
     printf("]\n");
 
+    system("pause");
     return 0;
 }

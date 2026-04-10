@@ -2,8 +2,11 @@
    Lê três palavras do teclado e imprime na ordem inversa */
 
 #include <stdio.h>
+#include <stdlib.h>
 
 int main() {
+    system("chcp 65001 > nul");
+
     printf("Exercício 1: Palavras na Ordem Inversa\n\n");
 
     char palavra1[50];
@@ -24,5 +27,6 @@ int main() {
     printf("   %s\n", palavra2);
     printf("   %s\n", palavra1);
 
+    system("pause");
     return 0;
 }
