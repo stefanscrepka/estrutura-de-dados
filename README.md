@@ -11,7 +11,8 @@
 
 | Pasta | Descrição | Status |
 |---|---|---|
-| atividade-01 | Vetores, matrizes, strings, structs, ponteiros e alocação dinâmica |
+| atividade-01 | Vetores, matrizes, strings, structs, ponteiros e alocação dinâmica | Completo |
+| atividade-02 |  | Pendente |
 
 ---
 
