@@ -1,6 +1,3 @@
-/* ATIVIDADE AVALIATIVA 1 — Exercício 4
-   Imprime a matriz identidade e prova que A * I = A */
-
 #include <stdio.h>
 #include <stdlib.h>
 

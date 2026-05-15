@@ -1,9 +1,3 @@
-/* ATIVIDADE AVALIATIVA 3 — Desafio 2
-   Fila de impressão com prioridade: menor valor = maior prioridade.
-   Em caso de empate, respeita a ordem de chegada (FIFO).
-   Implementação com fila dinâmica, struct, malloc e ponteiros.
-   Ordenação feita por inserção posicionada — sem qsort. */
-
 #include <stdio.h>
 #include <stdlib.h>
 

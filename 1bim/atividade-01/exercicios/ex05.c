@@ -1,6 +1,3 @@
-/* ATIVIDADE AVALIATIVA 1 — Exercício 5
-   Lê vetor 1x3 e matriz 3x3, multiplica o vetor pelas colunas da matriz */
-
 #include <stdio.h>
 #include <stdlib.h>
 

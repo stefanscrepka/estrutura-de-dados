@@ -1,6 +1,3 @@
-/* ATIVIDADE AVALIATIVA 1 — Exercício 7
-   Lê dados de 5 livros e busca por título usando strcmp */
-
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>

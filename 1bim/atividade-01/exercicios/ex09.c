@@ -1,7 +1,3 @@
-/* ATIVIDADE AVALIATIVA 1 — Exercício 9
-   Lê 3 inteiros, ordena por referência (menor ao maior) e
-   retorna 1 se os três forem iguais, 0 caso contrário */
-
 #include <stdio.h>
 #include <stdlib.h>
 

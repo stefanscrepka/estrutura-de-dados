@@ -1,7 +1,3 @@
-/* ATIVIDADE AVALIATIVA 1 — Exercício 8
-   Lê array de 5 inteiros e imprime o dobro de cada valor
-   usando APENAS aritmética de ponteiros */
-
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,7 +1,3 @@
-/* ATIVIDADE AVALIATIVA 2 — Desafio 2
-   Inverte uma string utilizando pilha dinâmica com struct
-   e alocação dinâmica — sem vetor auxiliar, sem funções prontas */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

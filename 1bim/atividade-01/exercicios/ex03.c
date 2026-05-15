@@ -1,6 +1,3 @@
-/* ATIVIDADE AVALIATIVA 1 — Exercício 3
-   Lê matriz 3x3, multiplica cada elemento por 5 e imprime o resultado */
-
 #include <stdio.h>
 #include <stdlib.h>
 

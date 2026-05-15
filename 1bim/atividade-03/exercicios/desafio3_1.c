@@ -1,7 +1,3 @@
-/* ATIVIDADE AVALIATIVA 3 — Desafio 1
-   Simulação de atendimento de fila de clientes com fila dinâmica
-   utilizando struct, malloc e ponteiros */
-
 #include <stdio.h>
 #include <stdlib.h>
 

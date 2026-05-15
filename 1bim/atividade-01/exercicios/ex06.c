@@ -1,6 +1,3 @@
-/* ATIVIDADE AVALIATIVA 1 — Exercício 6
-   Lê dados de 10 alunos usando struct e divide em aprovados e reprovados */
-
 #include <stdio.h>
 #include <stdlib.h>
 

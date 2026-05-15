@@ -1,9 +1,3 @@
-/* ATIVIDADE AVALIATIVA 1 — Exercício 10
-   Struct Aluno com nome e nota. Alocação dinâmica de n alunos.
-   Função maiorNota retorna ponteiro para o aluno com maior nota.
-   Restrições: sem variáveis globais, sem vetor estático,
-   acesso apenas por ponteiros. */
-
 #include <stdio.h>
 #include <stdlib.h>
 

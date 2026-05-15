@@ -1,6 +1,3 @@
-/* ATIVIDADE AVALIATIVA 1 — Exercício 2
-   Cria vetor com 5 inteiros, lê do teclado e imprime na ordem inversa */
-
 #include <stdio.h>
 #include <stdlib.h>
 

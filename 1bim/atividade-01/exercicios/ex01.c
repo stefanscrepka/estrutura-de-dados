@@ -1,6 +1,3 @@
-/* ATIVIDADE AVALIATIVA 1 — Exercício 1
-   Lê três palavras do teclado e imprime na ordem inversa */
-
 #include <stdio.h>
 #include <stdlib.h>
 
