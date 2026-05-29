@@ -1,7 +1,3 @@
-/* ATIVIDADE AVALIATIVA 2 — Desafio 1
-   Verifica se uma expressão com (), {} e [] está balanceada
-   utilizando pilha dinâmica com struct e alocação dinâmica */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
